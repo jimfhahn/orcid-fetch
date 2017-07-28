@@ -9,7 +9,7 @@ Simple Ruby script to fetch publication data from ORCID, flatten it, and write t
 
 - Run `bundle install`
 
-- Edit the `orcids.txt` file, entering the ORCIDs you want to download data for.
+- Create a file called `orcids.txt` containing the ORCIDs you want to download data for, one per line.
 
 - Run `bundle exec ./orcid-fetch.rb` 
 
